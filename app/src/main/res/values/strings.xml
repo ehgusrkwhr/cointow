@@ -1,6 +1,13 @@
 <resources>
   <string name="app_name">cointwo</string>
-  <string name="action_settings">Settings</string>
+  <!-- menu name -->
+  <string name="menu_home">홈</string>
+  <string name="menu_assets">자산</string>
+  <string name="menu_money">입출금</string>
+  <string name="menu_plus">플러스</string>
+  <string name="menu_my">마이</string>
+
+  <!-- menu name -->
   <!-- Strings used for fragments for navigation -->
   <string name="first_fragment_label">First Fragment</string>
   <string name="second_fragment_label">Second Fragment</string>
@@ -9,4 +16,7 @@
 
   <string name="hello_first_fragment">Hello first fragment</string>
   <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+<!--  <string name="default_web_client_id">253566863558-8i9k25mjorud8agi8525qvd19mfspfmo.apps.googleusercontent.com</string>-->
 </resources>
